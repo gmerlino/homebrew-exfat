@@ -1,4 +1,4 @@
-# Homebrew formula for Exfat
+# Homebrew formula for exFAT (FUSE-based implementation)
 ## How do I install this formula?
 `brew tap gmerlino/exfat` and then `brew install <formula>`.
 
